@@ -1,0 +1,14 @@
+pud
+ls
+cd
+mkdir
+rmdir
+cp
+mv
+rm
+clear
+
+
+ls -l
+cd Downloads
+ cd../Documentos
